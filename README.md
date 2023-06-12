@@ -1,5 +1,11 @@
 
 
+## git clone 到本地
+
+````
+git clone https://github.com/kiookp/eddk.git
+````
+
 
 ## 安装依赖
 
